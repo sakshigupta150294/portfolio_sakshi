@@ -1,0 +1,33 @@
+h4{
+    color:#4a4843;
+font-size: 15px;
+margin-bottom: 10px;
+margin-top:2px;
+}
+
+h6{
+    text-transform: none !important;
+}
+
+.ti-medall:before {
+    content: "\e623";
+}
+
+.icon-light {
+    color: #c8d5ef;
+}
+
+.icon-bg {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.icon {
+    font-size: 45px;
+}
+
+.shadow {
+    box-shadow: 0 18px 39.1px 6.9px rgba(224,241,255,.34)!important;
+}
